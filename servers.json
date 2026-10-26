@@ -112,8 +112,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
-},
-{
+  },
+   {
     "name": "anisette-v3-server-github",  
     "address": "https://anisette-v3-server-jlb3.onrender.com"
-}
+   }
